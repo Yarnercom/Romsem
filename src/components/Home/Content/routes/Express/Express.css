@@ -1,0 +1,33 @@
+.express__main-title{
+    font-family: DINPro-Medium, sans-serif;
+    font-size: 36px;
+    line-height: 45px;
+    color: #242424;
+    margin-bottom: 29px;
+    letter-spacing: 0.5px;
+}
+
+.express ul li{
+    list-style-type: disc;
+    font-family: DIN-Pro, sans-serif;
+    font-size: 18px;
+    line-height: 22px;
+    color: #212026;
+    letter-spacing: 0.5px;
+}
+.express__main-subtitle{
+    font-family: DIN-Pro, sans-serif;
+    font-size: 20px;
+    line-height: 22px;
+    color: #212026;
+    margin-top: 15px;
+    letter-spacing: 0.5px;
+}
+.express__bold{
+    font-weight: bold;
+    font-family: DIN-Pro, sans-serif;
+    font-size: 18px;
+    line-height: 22px;
+    color: #212026;
+    letter-spacing: 0.5px;
+}
